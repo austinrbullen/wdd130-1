@@ -1,0 +1,83 @@
+body {
+    text-align: center;
+    background-color: skyblue;
+    margin: 0 auto;
+    font: Helvetica, Serif;
+
+}
+/* h1 */
+h1 {
+    color: white;
+    text-align: center;
+    padding: 1em;
+    font-size: 40px;
+
+}
+h1:hover {
+    color: black;
+}
+/* photo */
+img {
+    width: 150px;
+    margin: 0 auto;
+    padding: 1em;
+
+}
+/* p */
+p {
+    text-align: center;
+    color: white;
+    margin: 0 auto;
+    line-height: 2.0;
+    width: 400px;
+    font-size: 15px;
+
+}
+.quote {
+    font-size: 20px;
+    font-weight: bold;
+
+}
+/* list */
+ol {
+    width: 450px;
+    margin: 0 auto;
+    color: black;
+    text-align: left;
+    font-weight: bold;
+    line-height: 2.0;
+    font-size: 15px;
+    padding: 1em;
+
+}
+
+
+/* blockquote */
+blockquote {
+    text-align: center;
+    color: white;
+    margin: 0 auto;
+    line-height: 1.0;
+    width: 250px;
+    font-size: 30px;
+    padding: 1em;
+}
+/* classes */
+.nelson {
+    text-align: center;
+    color: black;
+    margin: 1 auto;
+    line-height: 2.0;
+    width: 400px;
+    font-size: 15px;
+
+}
+
+.president {
+    text-align: center;
+    color: black;
+    margin: 1 auto;
+    line-height: 2.0;
+    width: 400px;
+    font-size: 15px;
+}
