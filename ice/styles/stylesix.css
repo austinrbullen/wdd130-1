@@ -1,0 +1,16 @@
+.gridbox {
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column: 1/3;
+    justify-items: center;
+    justify-content: center;
+}
+
+.tart {
+}
+.cherry {
+    grid-row: 1/3;
+}
+.cherries {
+    color: red;
+}
