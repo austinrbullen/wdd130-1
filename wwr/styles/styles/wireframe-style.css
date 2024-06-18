@@ -272,4 +272,11 @@ footer p a:hover {
     footer {
         margin-top: 25px;
     }
+/* Page2 */
+    .page2hero {
+        display: grid;
+        margin-top: -100px; 
+        width: 0 auto;
+        height: 5%;
+    }
 }
